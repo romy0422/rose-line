@@ -1,6 +1,6 @@
 package devoirjava;
 
 class devoir {
-public
+public static
 
 }
