@@ -1,3 +1,6 @@
 package devoirjava;
 
-class 
+class devoir {
+
+    
+}
